@@ -14,6 +14,7 @@ namespace Madiba2goBuggy.Pages
 
         public void OnGet()
         {
+            // We add some code here
         }
     }
 }
